@@ -318,6 +318,32 @@
 }
 
 // --------------------------------------------------
+// offset columns mixins
+// --------------------------------------------------
+
+@mixin make-reflex-offsets($class) {
+     @include loop-reflex-offsets($reflex-columns, $class, margin-left);
+}
+
+@mixin calc-reflex-offsets($index, $class, $type) {
+    @if $type = margin-left and $index >= 0 {
+        .#{$reflex-prefix}#{$class}#{$index} {
+             margin-left: percentage(($index / $reflex-columns));
+            *margin-left: percentage(($index / $reflex-columns)) - 0.1;
+        }
+    }
+}
+
+@mixin loop-reflex-offsets($index, $class, $type) {
+    @if $index >= 0 {
+        @include calc-reflex-offsets($index, $class, $type);
+
+        // next iteration
+        @include loop-reflex-offsets(($index - 1), $class, $type);
+    }
+}
+
+// --------------------------------------------------
 // other mixins
 // --------------------------------------------------
 

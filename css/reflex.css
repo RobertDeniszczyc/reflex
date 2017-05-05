@@ -841,6 +841,304 @@
     order: 0;
   }
 }
+.grid__offset-12 {
+  margin-left: 100%;
+  *margin-left: 99.9%;
+}
+.grid__offset-11 {
+  margin-left: 91.66666667%;
+  *margin-left: 91.56666667%;
+}
+.grid__offset-10 {
+  margin-left: 83.33333333%;
+  *margin-left: 83.23333333%;
+}
+.grid__offset-9 {
+  margin-left: 75%;
+  *margin-left: 74.9%;
+}
+.grid__offset-8 {
+  margin-left: 66.66666667%;
+  *margin-left: 66.56666667%;
+}
+.grid__offset-7 {
+  margin-left: 58.33333333%;
+  *margin-left: 58.23333333%;
+}
+.grid__offset-6 {
+  margin-left: 50%;
+  *margin-left: 49.9%;
+}
+.grid__offset-5 {
+  margin-left: 41.66666667%;
+  *margin-left: 41.56666667%;
+}
+.grid__offset-4 {
+  margin-left: 33.33333333%;
+  *margin-left: 33.23333333%;
+}
+.grid__offset-3 {
+  margin-left: 25%;
+  *margin-left: 24.9%;
+}
+.grid__offset-2 {
+  margin-left: 16.66666667%;
+  *margin-left: 16.56666667%;
+}
+.grid__offset-1 {
+  margin-left: 8.33333333%;
+  *margin-left: 8.23333333%;
+}
+@media (min-width: 480px) {
+  .grid__offset-xs-12 {
+    margin-left: 100%;
+    *margin-left: 99.9%;
+  }
+  .grid__offset-xs-11 {
+    margin-left: 91.66666667%;
+    *margin-left: 91.56666667%;
+  }
+  .grid__offset-xs-10 {
+    margin-left: 83.33333333%;
+    *margin-left: 83.23333333%;
+  }
+  .grid__offset-xs-9 {
+    margin-left: 75%;
+    *margin-left: 74.9%;
+  }
+  .grid__offset-xs-8 {
+    margin-left: 66.66666667%;
+    *margin-left: 66.56666667%;
+  }
+  .grid__offset-xs-7 {
+    margin-left: 58.33333333%;
+    *margin-left: 58.23333333%;
+  }
+  .grid__offset-xs-6 {
+    margin-left: 50%;
+    *margin-left: 49.9%;
+  }
+  .grid__offset-xs-5 {
+    margin-left: 41.66666667%;
+    *margin-left: 41.56666667%;
+  }
+  .grid__offset-xs-4 {
+    margin-left: 33.33333333%;
+    *margin-left: 33.23333333%;
+  }
+  .grid__offset-xs-3 {
+    margin-left: 25%;
+    *margin-left: 24.9%;
+  }
+  .grid__offset-xs-2 {
+    margin-left: 16.66666667%;
+    *margin-left: 16.56666667%;
+  }
+  .grid__offset-xs-1 {
+    margin-left: 8.33333333%;
+    *margin-left: 8.23333333%;
+  }
+}
+@media (min-width: 768px) {
+  .grid__offset-sm-12 {
+    margin-left: 100%;
+    *margin-left: 99.9%;
+  }
+  .grid__offset-sm-11 {
+    margin-left: 91.66666667%;
+    *margin-left: 91.56666667%;
+  }
+  .grid__offset-sm-10 {
+    margin-left: 83.33333333%;
+    *margin-left: 83.23333333%;
+  }
+  .grid__offset-sm-9 {
+    margin-left: 75%;
+    *margin-left: 74.9%;
+  }
+  .grid__offset-sm-8 {
+    margin-left: 66.66666667%;
+    *margin-left: 66.56666667%;
+  }
+  .grid__offset-sm-7 {
+    margin-left: 58.33333333%;
+    *margin-left: 58.23333333%;
+  }
+  .grid__offset-sm-6 {
+    margin-left: 50%;
+    *margin-left: 49.9%;
+  }
+  .grid__offset-sm-5 {
+    margin-left: 41.66666667%;
+    *margin-left: 41.56666667%;
+  }
+  .grid__offset-sm-4 {
+    margin-left: 33.33333333%;
+    *margin-left: 33.23333333%;
+  }
+  .grid__offset-sm-3 {
+    margin-left: 25%;
+    *margin-left: 24.9%;
+  }
+  .grid__offset-sm-2 {
+    margin-left: 16.66666667%;
+    *margin-left: 16.56666667%;
+  }
+  .grid__offset-sm-1 {
+    margin-left: 8.33333333%;
+    *margin-left: 8.23333333%;
+  }
+}
+@media (min-width: 992px) {
+  .grid__offset-md-12 {
+    margin-left: 100%;
+    *margin-left: 99.9%;
+  }
+  .grid__offset-md-11 {
+    margin-left: 91.66666667%;
+    *margin-left: 91.56666667%;
+  }
+  .grid__offset-md-10 {
+    margin-left: 83.33333333%;
+    *margin-left: 83.23333333%;
+  }
+  .grid__offset-md-9 {
+    margin-left: 75%;
+    *margin-left: 74.9%;
+  }
+  .grid__offset-md-8 {
+    margin-left: 66.66666667%;
+    *margin-left: 66.56666667%;
+  }
+  .grid__offset-md-7 {
+    margin-left: 58.33333333%;
+    *margin-left: 58.23333333%;
+  }
+  .grid__offset-md-6 {
+    margin-left: 50%;
+    *margin-left: 49.9%;
+  }
+  .grid__offset-md-5 {
+    margin-left: 41.66666667%;
+    *margin-left: 41.56666667%;
+  }
+  .grid__offset-md-4 {
+    margin-left: 33.33333333%;
+    *margin-left: 33.23333333%;
+  }
+  .grid__offset-md-3 {
+    margin-left: 25%;
+    *margin-left: 24.9%;
+  }
+  .grid__offset-md-2 {
+    margin-left: 16.66666667%;
+    *margin-left: 16.56666667%;
+  }
+  .grid__offset-md-1 {
+    margin-left: 8.33333333%;
+    *margin-left: 8.23333333%;
+  }
+}
+@media (min-width: 1200px) {
+  .grid__offset-lg-12 {
+    margin-left: 100%;
+    *margin-left: 99.9%;
+  }
+  .grid__offset-lg-11 {
+    margin-left: 91.66666667%;
+    *margin-left: 91.56666667%;
+  }
+  .grid__offset-lg-10 {
+    margin-left: 83.33333333%;
+    *margin-left: 83.23333333%;
+  }
+  .grid__offset-lg-9 {
+    margin-left: 75%;
+    *margin-left: 74.9%;
+  }
+  .grid__offset-lg-8 {
+    margin-left: 66.66666667%;
+    *margin-left: 66.56666667%;
+  }
+  .grid__offset-lg-7 {
+    margin-left: 58.33333333%;
+    *margin-left: 58.23333333%;
+  }
+  .grid__offset-lg-6 {
+    margin-left: 50%;
+    *margin-left: 49.9%;
+  }
+  .grid__offset-lg-5 {
+    margin-left: 41.66666667%;
+    *margin-left: 41.56666667%;
+  }
+  .grid__offset-lg-4 {
+    margin-left: 33.33333333%;
+    *margin-left: 33.23333333%;
+  }
+  .grid__offset-lg-3 {
+    margin-left: 25%;
+    *margin-left: 24.9%;
+  }
+  .grid__offset-lg-2 {
+    margin-left: 16.66666667%;
+    *margin-left: 16.56666667%;
+  }
+  .grid__offset-lg-1 {
+    margin-left: 8.33333333%;
+    *margin-left: 8.23333333%;
+  }
+}
+@media (min-width: 1600px) {
+  .grid__offset-xlg-12 {
+    margin-left: 100%;
+    *margin-left: 99.9%;
+  }
+  .grid__offset-xlg-11 {
+    margin-left: 91.66666667%;
+    *margin-left: 91.56666667%;
+  }
+  .grid__offset-xlg-10 {
+    margin-left: 83.33333333%;
+    *margin-left: 83.23333333%;
+  }
+  .grid__offset-xlg-9 {
+    margin-left: 75%;
+    *margin-left: 74.9%;
+  }
+  .grid__offset-xlg-8 {
+    margin-left: 66.66666667%;
+    *margin-left: 66.56666667%;
+  }
+  .grid__offset-xlg-7 {
+    margin-left: 58.33333333%;
+    *margin-left: 58.23333333%;
+  }
+  .grid__offset-xlg-6 {
+    margin-left: 50%;
+    *margin-left: 49.9%;
+  }
+  .grid__offset-xlg-5 {
+    margin-left: 41.66666667%;
+    *margin-left: 41.56666667%;
+  }
+  .grid__offset-xlg-4 {
+    margin-left: 33.33333333%;
+    *margin-left: 33.23333333%;
+  }
+  .grid__offset-xlg-3 {
+    margin-left: 25%;
+    *margin-left: 24.9%;
+  }
+  .grid__offset-xlg-2 {
+    margin-left: 16.66666667%;
+    *margin-left: 16.56666667%;
+  }
+  .grid__offset-xlg-1 {
+    margin-left: 8.33333333%;
+    *margin-left: 8.23333333%;
+  }
+}
 .grid--bleed [class*="grid__col-"] {
   padding: 0;
 }

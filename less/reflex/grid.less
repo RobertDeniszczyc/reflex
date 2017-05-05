@@ -157,3 +157,29 @@
 @media only screen and (min-width: @reflex-xlg) {
     .loop-grid--order-helpers(@reflex-columns, ~'-xlg');
 }
+
+// --------------------------------------------------
+// reflex column offset generation
+// --------------------------------------------------
+
+.make-reflex-offsets(grid__offset-);
+
+@media (min-width: @reflex-xs) {
+    .make-reflex-offsets(grid__offset-xs-);
+}
+
+@media (min-width: @reflex-sm) {
+    .make-reflex-offsets(grid__offset-sm-);
+}
+
+@media (min-width: @reflex-md) {
+    .make-reflex-offsets(grid__offset-md-);
+}
+
+@media (min-width: @reflex-lg) {
+    .make-reflex-offsets(grid__offset-lg-);
+}
+
+@media (min-width: @reflex-xlg) {
+    .make-reflex-offsets(grid__offset-xlg-);
+}
