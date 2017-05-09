@@ -326,7 +326,7 @@
 }
 
 @mixin calc-reflex-offsets($index, $class, $type) {
-    @if $type = margin-left and $index >= 0 {
+    @if $type == margin-left and $index >= 0 {
         .#{$reflex-prefix}#{$class}#{$index} {
              margin-left: percentage(($index / $reflex-columns));
             *margin-left: percentage(($index / $reflex-columns)) - 0.1;
